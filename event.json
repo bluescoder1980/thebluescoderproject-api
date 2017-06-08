@@ -1,0 +1,16 @@
+
+{
+  "body": "{\"content\":\"hello world\",\"attachment\":\"hello.jpg\"}",
+  "requestContext": 
+  	{
+    	"authorizer": 
+    		{
+      			"claims": 
+      				{
+        				"sub": "abe_alian2003@yahoo.com"
+      				}
+    		}
+  	}
+}
+
+

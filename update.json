@@ -1,0 +1,13 @@
+{
+  "body": "{\"content\":\"Update from Abe\",\"attachment\":\"updated.jpg\"}",
+  "pathParameters": {
+    "id": "d6243da0-4c0b-11e7-846a-7526574d2bdd"
+  },
+  "requestContext": {
+    "authorizer": {
+      "claims": {
+        "sub": "abe_alian2003@yahoo.com"
+      }
+    }
+  }
+}

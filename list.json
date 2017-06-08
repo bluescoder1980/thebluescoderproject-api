@@ -1,0 +1,9 @@
+{
+  "requestContext": {
+    "authorizer": {
+      "claims": {
+        "sub": "abe_alian2003@yahoo.com"
+      }
+    }
+  }
+}
